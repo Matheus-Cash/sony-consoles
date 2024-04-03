@@ -1,7 +1,7 @@
 body {
     background-color: chocolate;
     font-size: 22px;
-    margin-left: 10px;
+    margin-left: 20px;
     margin-right: 10px;
 }
 
@@ -10,3 +10,4 @@ h1 {
     text-align: center;
     font-size-adjust: none;
 }
+
